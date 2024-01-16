@@ -109,6 +109,8 @@ namespace Uni.Models
 
     public class Department
     {
+        [Timestamp]
+        public byte[] ConcurrencyToken { get; set; }
         public int DepartmentID { get; set; }
 
         [StringLength(50, MinimumLength = 3)]

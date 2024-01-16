@@ -253,3 +253,4 @@ C:\Users\bgmil\source\repos\Uni\Uni\bin\Debug\net8.0\runtimes\win\lib\net7.0\Sys
 C:\Users\bgmil\source\repos\Uni\Uni\obj\Debug\net8.0\Uni.csproj.AssemblyReference.cache
 C:\Users\bgmil\source\repos\Uni\Uni\obj\Debug\net8.0\Uni.csproj.CopyComplete
 C:\Users\bgmil\source\repos\Uni\Uni\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\bgmil\source\repos\Uni\Uni\obj\Debug\net8.0\Uni.sourcelink.json
